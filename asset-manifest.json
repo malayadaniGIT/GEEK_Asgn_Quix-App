@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_Asgn_Quix-App/static/css/main.88cdad9c.css",
+    "main.js": "/GEEK_Asgn_Quix-App/static/js/main.175f0194.js",
+    "static/js/787.957d0347.chunk.js": "/GEEK_Asgn_Quix-App/static/js/787.957d0347.chunk.js",
+    "index.html": "/GEEK_Asgn_Quix-App/index.html",
+    "main.88cdad9c.css.map": "/GEEK_Asgn_Quix-App/static/css/main.88cdad9c.css.map",
+    "main.175f0194.js.map": "/GEEK_Asgn_Quix-App/static/js/main.175f0194.js.map",
+    "787.957d0347.chunk.js.map": "/GEEK_Asgn_Quix-App/static/js/787.957d0347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88cdad9c.css",
+    "static/js/main.175f0194.js"
+  ]
+}
